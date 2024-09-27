@@ -1,6 +1,19 @@
-   _                       _
-  (_)_____      ____ _ ___(_)
-  | / __\ \ /\ / / _` / __| |
-  | \__ \\ V  V / (_| \__ \ |
- _/ |___/ \_/\_/ \__,_|___/_|
-|__/$VERSION
+Welcome! I'm
+  ___           _   ___   _       ___
+ |   \   __ _  (_) | _ \ | |     / __|
+ | |) | / _` | | | |  _/ | |__  | (_ |
+ |___/  \__,_| |_| |_|   |____|  \___|
+
+I'm a full-stack developer. I have experience in web development,
+cloud computing, and DevOps.
+
+You can find out more about me by typing: `me --help`
+
+This is a WASM runtime that can be expanded with complete applications which are
+served or embedded by providing a root filesystem with wasm32-wasi executables,
+aims to enable using WebAssembly to build a Linux-like environment in your
+browser.
+You can edit text files via `ox` or `kibi` pre-installed in this environment.
+
+Source: https://github.com/antmicro/jswasi
+Powered by jswasi $VERSION
