@@ -16,4 +16,4 @@ browser.
 You can edit text files via `ox` or `kibi` pre-installed in this environment.
 
 Source: https://github.com/antmicro/jswasi
-Powered by jswasi $VERSION
+Powered by jswasi                    v0.3.4
