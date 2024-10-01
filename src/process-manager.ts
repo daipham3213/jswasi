@@ -11,7 +11,7 @@ import {
 import { TerminalDriver } from "./filesystem/virtual-filesystem/terminals/terminal.js";
 import { HtermDeviceDriver } from "./filesystem/virtual-filesystem/terminals/hterm-terminal.js";
 
-export const DEFAULT_WORK_DIR = "/home/ant";
+export const DEFAULT_WORK_DIR = "/home/daiplg";
 export const DEFAULT_ENV = {
   PATH: "/usr/bin:/usr/local/bin",
   PWD: DEFAULT_WORK_DIR,
@@ -21,8 +21,8 @@ export const DEFAULT_ENV = {
   HOME: DEFAULT_WORK_DIR,
   SHELL: "/usr/bin/wash",
   LANG: "en_US.UTF-8",
-  USER: "ant",
-  HOSTNAME: "browser",
+  USER: "daiplg",
+  HOSTNAME: "portfolio",
   PYTHONHOME: "/",
   PS1: "\x1b[1;34m\\u@\\h \x1b[1;33m\\w$\x1b[0m ",
 };
