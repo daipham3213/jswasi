@@ -1,6 +1,7 @@
 {
-  "init": ["/usr/bin/wash"],
-  "rootfs": "https://daipham3213.github.io/wasm-shell/rootfs.tar.gz",
+  "init": "/usr/bin/wasibox",
+  "initArgs": ["init"],
+  "rootfs": "https://antmicro.github.io/jswasi-rootfs/rootfs.tar.gz",
   "mountConfig": {
     "fsType": "fsa",
     "opts": {

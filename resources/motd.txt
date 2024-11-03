@@ -4,8 +4,8 @@ Welcome! I'm
  | |) | / _` | | | |  _/ | |__  | (_ |
  |___/  \__,_| |_| |_|   |____|  \___|
 
-a full-stack developer. I have experience in web development, cloud computing,
-and DevOps.
+I'm a full-stack developer. I have experience in web development,
+cloud computing, and DevOps.
 
 You can find out more about me by typing: `me --help`
 
@@ -16,4 +16,4 @@ browser.
 You can edit text files via `ox` or `kibi` pre-installed in this environment.
 
 Source: https://github.com/antmicro/jswasi
-Powered by jswasi                    v0.3.4
+Powered by jswasi                    v0.3.5
