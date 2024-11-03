@@ -1,7 +1,7 @@
 {
   "init": "/usr/bin/wasibox",
   "initArgs": ["init"],
-  "rootfs": "https://antmicro.github.io/jswasi-rootfs/rootfs.tar.gz",
+  "rootfs": "https://daipham3213.github.io/wasm-shell/rootfs.tar.gz",
   "mountConfig": {
     "fsType": "vfs",
     "opts": {}
